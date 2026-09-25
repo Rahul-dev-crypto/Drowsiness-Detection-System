@@ -1,0 +1,12 @@
+# Large model files
+shape_predictor_68_face_landmarks.dat
+shape_predictor_68_face_landmarks.dat.zip
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
